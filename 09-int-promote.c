@@ -1,3 +1,5 @@
+// Any operand whose type ranks lower that int is temporarily promoted to int or unsigned int for comparison
+//
 #include <stdio.h>
 
 int main() {
